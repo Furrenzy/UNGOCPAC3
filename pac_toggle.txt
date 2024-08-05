@@ -1,0 +1,38 @@
+[1] = {
+	["children"] = {
+		[1] = {
+			["children"] = {
+			},
+			["self"] = {
+				["AffectChildrenOnly"] = false,
+				["DrawOrder"] = 0,
+				["TargetPartUID"] = "",
+				["Name"] = "",
+				["Event"] = "command",
+				["Hide"] = false,
+				["TargetEntityUID"] = "",
+				["RootOwner"] = true,
+				["EditorExpand"] = true,
+				["ClassName"] = "event",
+				["Arguments"] = "THIS ON@@0",
+				["Invert"] = true,
+				["IsDisturbing"] = false,
+				["Operator"] = "find simple",
+				["UniqueID"] = "fee3d68c68fc52c555ba2ab328469274ec4630432ddadc863ebcfc666adbea39",
+				["ZeroEyePitch"] = false,
+			},
+		},
+	},
+	["self"] = {
+		["DrawOrder"] = 0,
+		["UniqueID"] = "fc9b2bf628db9bb29ceff3109f4e3cf9a6b36004bee28baefbce1ee1f8466fcb",
+		["Hide"] = false,
+		["TargetEntityUID"] = "",
+		["EditorExpand"] = true,
+		["OwnerName"] = "self",
+		["IsDisturbing"] = false,
+		["Name"] = "",
+		["Duplicate"] = false,
+		["ClassName"] = "group",
+	},
+},
